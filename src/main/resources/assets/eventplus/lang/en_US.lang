@@ -1,0 +1,32 @@
+//アイテム
+item.GenerationCore.name=Generation Core
+item.AdvancedGenerationCore.name=Advanced Generation Core
+item.EndingIngot.name=Ending Ingot
+item.EndingNugget.name=Ending Nugget
+item.AmuletOfGaia.name=Amulet of Gaia
+item.AmuletOfDignity.name=Amulet of Dignity
+item.DropOfTheEarth.name=Drop of the Earth
+//ブロック
+tile.EndingBlock.name=Ending Block
+tile.UltimateCraftingTable.name=Ultimate Crafting Table(Unfinished)
+
+//ハンマー
+item.IronHammer.name=Iron Hammer
+item.GoldHammer.name=Gold Hammer
+item.UraniumHammer.name=Uranium Hammer
+item.DiamondHammer.name=Diamond Hammer
+item.SteelHammer.name=Steel Hammer
+item.SuperHammer.name=Super Hammer
+item.TestHammer.name=LOL Hammer
+
+//ノコギリ
+item.IronSaw.name=Iron Saw
+item.GoldSaw.name=Gold Saw
+item.UraniumSaw.name=Uranium Saw
+item.DiamondSaw.name=Diamond Saw
+item.SteelSaw.name=Steel Saw
+item.SuperSaw.name=Super Saw
+item.TestSaw.name=LOL Hammer
+
+//タブ
+itemGroup.EventPlus=Event Server Tab
