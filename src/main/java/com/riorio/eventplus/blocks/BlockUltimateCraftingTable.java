@@ -2,6 +2,7 @@ package com.riorio.eventplus.blocks;
 
 import com.riorio.eventplus.EP;
 import com.riorio.eventplus.EventPlus;
+import com.riorio.eventplus.gui.GuiHandler;
 
 import cpw.mods.fml.relauncher.Side;
 import cpw.mods.fml.relauncher.SideOnly;
@@ -12,7 +13,8 @@ import net.minecraft.entity.player.EntityPlayer;
 import net.minecraft.util.IIcon;
 import net.minecraft.world.World;
 
-public class BlockUltimateCraftingTable extends Block{
+public class BlockUltimateCraftingTable extends Block {
+	public static int GUI_ID;
 
 	@SideOnly(Side.CLIENT)
 	private IIcon Top;
@@ -20,30 +22,30 @@ public class BlockUltimateCraftingTable extends Block{
 
 	public BlockUltimateCraftingTable() {
 		super(Material.iron);
-		this.setHardness(3.5F);
-		this.setResistance(5.0F);
-		this.setCreativeTab(EventPlus.EventPlusTab);
+		setHardness(3.5F);
+		setResistance(5.0F);
+		setCreativeTab(EventPlus.EventPlusTab);
 	}
 
+	@Override
 	@SideOnly(Side.CLIENT)
-	public IIcon getIcon (int side, int metadata) {
-		return side == 1 ? this.Top : this.blockIcon;
+	public IIcon getIcon(final int side, final int metadata) {
+		return side==1 ? this.Top : this.blockIcon;
 	}
 
+	@Override
 	public void registerBlockIcons(final IIconRegister iconregister) {
 		this.blockIcon = iconregister.registerIcon(EP.MODID+":crafting_table_front");
 		this.Top = iconregister.registerIcon(EP.MODID+":crafting_table_top");
 	}
 
-	public boolean onBlockActivated (World world, int x, int y, int z, EntityPlayer player, int side, float hitX, float hitY, float hitZ) {
-		if (!player.isSneaking()) {
-			player.openGui(EventPlus.EventPlusInstance, EventPlus.guiUltimateCraftingTable, world, x, y, z);
+	@Override
+	public boolean onBlockActivated(final World World, final int par2, final int par3, final int par4, final EntityPlayer par5EntityPlayer, final int par6, final float par7, final float par8, final float par9) {
+		if (World.isRemote)
 			return true;
-		}else{
-			return false;
-		}
+		par5EntityPlayer.openGui(EventPlus.EventPlusInstance, GuiHandler.GUI_ID = 0, World, par2, par3, par4);
+
+		return true;
 	}
 
-
 }
-

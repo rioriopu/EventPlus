@@ -1,32 +1,32 @@
-//ƒAƒCƒeƒ€
-item.GenerationCore.name=ƒWƒFƒlƒŒ[ƒVƒ‡ƒ“ƒRƒA
-item.AdvancedGenerationCore.name=‹­‰»ƒWƒFƒlƒŒ[ƒVƒ‡ƒ“ƒRƒA
-item.EndingIngot.name=ƒGƒ“ƒfƒBƒ“ƒOƒCƒ“ƒSƒbƒg
-item.EndingNugget.name=ƒGƒ“ƒfƒBƒ“ƒOƒiƒQƒbƒg
-item.AmuletOfGaia.name=ƒKƒCƒA‚Ì‚¨ç‚è
-item.AmuletOfDignity.name=‘¸Œµ‚Ì‚¨ç‚è
-item.DropOfTheEarth.name=’n‹…‚Ì´
-//ƒuƒƒbƒN
-tile.EndingBlock.name=ƒGƒ“ƒfƒBƒ“ƒOƒuƒƒbƒN
-tile.UltimateCraftingTable.name=‹†‹É‚ÌHìƒe[ƒuƒ‹(–¢Š®¬)
+//ã‚¢ã‚¤ãƒ†ãƒ 
+item.GenerationCore.name=ã‚¸ã‚§ãƒãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³ã‚³ã‚¢
+item.AdvancedGenerationCore.name=å¼·åŒ–ã‚¸ã‚§ãƒãƒ¬ãƒ¼ã‚·ãƒ§ãƒ³ã‚³ã‚¢
+item.EndingIngot.name=ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ã‚¤ãƒ³ã‚´ãƒƒãƒˆ
+item.EndingNugget.name=ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ãƒŠã‚²ãƒƒãƒˆ
+item.AmuletOfGaia.name=ã‚¬ã‚¤ã‚¢ã®ãŠå®ˆã‚Š
+item.AmuletOfDignity.name=å°Šå³ã®ãŠå®ˆã‚Š
+item.DropOfTheEarth.name=åœ°çƒã®é›«
+//ãƒ–ãƒ­ãƒƒã‚¯
+tile.EndingBlock.name=ã‚¨ãƒ³ãƒ‡ã‚£ãƒ³ã‚°ãƒ–ãƒ­ãƒƒã‚¯
+tile.UltimateCraftingTable.name=ç©¶æ¥µã®å·¥ä½œãƒ†ãƒ¼ãƒ–ãƒ«(æœªå®Œæˆ)
 
-//ƒnƒ“ƒ}[
-item.IronHammer.name=“S‚Ìƒnƒ“ƒ}[
-item.GoldHammer.name=‹à‚Ìƒnƒ“ƒ}[
-item.UraniumHammer.name=ƒEƒ‰ƒjƒEƒ€‚Ìƒnƒ“ƒ}[
-item.DiamondHammer.name=ƒ_ƒCƒ„ƒ‚ƒ“ƒh‚Ìƒnƒ“ƒ}[
-item.SteelHammer.name=|“S‚Ìƒnƒ“ƒ}[
-item.SuperHammer.name=Å‹­‚Ìƒnƒ“ƒ}[
-item.TestHammer.name=‚—‚—‚—‚Ìƒnƒ“ƒ}[
+//ãƒãƒ³ãƒãƒ¼
+item.IronHammer.name=é‰„ã®ãƒãƒ³ãƒãƒ¼
+item.GoldHammer.name=é‡‘ã®ãƒãƒ³ãƒãƒ¼
+item.UraniumHammer.name=ã‚¦ãƒ©ãƒ‹ã‚¦ãƒ ã®ãƒãƒ³ãƒãƒ¼
+item.DiamondHammer.name=ãƒ€ã‚¤ãƒ¤ãƒ¢ãƒ³ãƒ‰ã®ãƒãƒ³ãƒãƒ¼
+item.SteelHammer.name=é‹¼é‰„ã®ãƒãƒ³ãƒãƒ¼
+item.SuperHammer.name=æœ€å¼·ã®ãƒãƒ³ãƒãƒ¼
+item.TestHammer.name=ï½—ï½—ï½—ã®ãƒãƒ³ãƒãƒ¼
 
-//ƒmƒRƒMƒŠ
-item.IronSaw.name=“S‚ÌƒmƒRƒMƒŠ
-item.GoldSaw.name=‹à‚ÌƒmƒRƒMƒŠ
-item.UraniumSaw.name=ƒEƒ‰ƒjƒEƒ€‚ÌƒmƒRƒMƒŠ
-item.DiamondSaw.name=ƒ_ƒCƒ„ƒ‚ƒ“ƒh‚ÌƒmƒRƒMƒŠ
-item.SteelSaw.name=|“S‚ÌƒmƒRƒMƒŠ
-item.SuperSaw.name=Å‹­‚ÌƒmƒRƒMƒŠ
-item.TestSaw.name=(‘)‚ÌƒmƒRƒMƒŠ
+//ãƒã‚³ã‚®ãƒª
+item.IronSaw.name=é‰„ã®ãƒã‚³ã‚®ãƒª
+item.GoldSaw.name=é‡‘ã®ãƒã‚³ã‚®ãƒª
+item.UraniumSaw.name=ã‚¦ãƒ©ãƒ‹ã‚¦ãƒ ã®ãƒã‚³ã‚®ãƒª
+item.DiamondSaw.name=ãƒ€ã‚¤ãƒ¤ãƒ¢ãƒ³ãƒ‰ã®ãƒã‚³ã‚®ãƒª
+item.SteelSaw.name=é‹¼é‰„ã®ãƒã‚³ã‚®ãƒª
+item.SuperSaw.name=æœ€å¼·ã®ãƒã‚³ã‚®ãƒª
+item.TestSaw.name=(è‰)ã®ãƒã‚³ã‚®ãƒª
 
-//ƒ^ƒu
-itemGroup.EventPlus=ƒCƒxƒ“ƒgƒT[ƒo[—pƒ^ƒu
+//ã‚¿ãƒ–
+itemGroup.EventPlus=ã‚¤ãƒ™ãƒ³ãƒˆã‚µãƒ¼ãƒãƒ¼ç”¨ã‚¿ãƒ–

@@ -1,4 +1,4 @@
-//ƒAƒCƒeƒ€
+//ã‚¢ã‚¤ãƒ†ãƒ 
 item.GenerationCore.name=Generation Core
 item.AdvancedGenerationCore.name=Advanced Generation Core
 item.EndingIngot.name=Ending Ingot
@@ -6,11 +6,11 @@ item.EndingNugget.name=Ending Nugget
 item.AmuletOfGaia.name=Amulet of Gaia
 item.AmuletOfDignity.name=Amulet of Dignity
 item.DropOfTheEarth.name=Drop of the Earth
-//ƒuƒƒbƒN
+//ãƒ–ãƒ­ãƒƒã‚¯
 tile.EndingBlock.name=Ending Block
 tile.UltimateCraftingTable.name=Ultimate Crafting Table(Unfinished)
 
-//ƒnƒ“ƒ}[
+//ãƒãƒ³ãƒãƒ¼
 item.IronHammer.name=Iron Hammer
 item.GoldHammer.name=Gold Hammer
 item.UraniumHammer.name=Uranium Hammer
@@ -19,7 +19,7 @@ item.SteelHammer.name=Steel Hammer
 item.SuperHammer.name=Super Hammer
 item.TestHammer.name=LOL Hammer
 
-//ƒmƒRƒMƒŠ
+//ãƒã‚³ã‚®ãƒª
 item.IronSaw.name=Iron Saw
 item.GoldSaw.name=Gold Saw
 item.UraniumSaw.name=Uranium Saw
@@ -28,5 +28,5 @@ item.SteelSaw.name=Steel Saw
 item.SuperSaw.name=Super Saw
 item.TestSaw.name=LOL Hammer
 
-//ƒ^ƒu
+//ã‚¿ãƒ–
 itemGroup.EventPlus=Event Server Tab
